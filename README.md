@@ -50,9 +50,17 @@ const joaoAbout = {
   <img  align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 </div>
  <br/>
-<div align="center">
-  <a href="https://github.com/joaopedroortiz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedroortiz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedroortiz&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+ 
+   <div align="center" style={ display: "flex"}>
+  <p align="left"  >
+    <a href="https://github.com/danilloubr"><img align="left" src="https://github-readme-stats.vercel.app/api?username=joaopedroortiz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="192px" width="390px" padding="0px"/></a>
+	</p>
+	<p  align="right" >
+	  <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedroortiz&layout=compact&langs_count=7&theme=dracula"  height="192px" width="390px" padding="0px" />
+	</p>
+  <br/>
   
+  </div>
+  </p>
+ 
+
