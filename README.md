@@ -21,7 +21,7 @@ const joaoAbout = {
   },
   hardSkills: {
     languages: ["Javascript", "HTML", "CSS"],
-    frameworks: ["React"],
+    frameworks: ["React","Adobe Experience Manager"],
    },
   softSkills: [
     "Boa comunicação",
@@ -48,6 +48,9 @@ const joaoAbout = {
   <img align="center" height="50" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   <img align="center" height="50" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
   <img  align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+  <img   align="center" height="50" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
+  <img  align="center" height="50" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
+  <img   align="center" height="50" width="70" src="https://brightspot.brightspotcdn.com/dims4/default/e5b74ff/2147483647/strip/true/crop/1024x1024+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fbrightspot-brightspot.s3.amazonaws.com%2Fbsp%2Feb%2F1c%2Fe80a28b74547b0d46e94566a2b78%2Fadobe-experience-manager-logo-stacked.png" />
 </div>
  <br/>
  
